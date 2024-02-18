@@ -9,10 +9,10 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
+global.Owner = ["+2348177103943", "+2348177103943"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+2348177103943", "+2348177103943"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+2348177103943"];
+global.OwnerName = "ISRAEL";
+global.BotName = "PRINCE BOT";
 global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
 global.author = "KUSHAN";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
